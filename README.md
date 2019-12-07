@@ -1,5 +1,10 @@
 # StreamJsonParser
 
+### About
+User can query the JSON data for a nested value in a convenient format like `A.B.C`. 
+
+`C++11` is required to compile this application. 
+
 ### How to Build
 
 ##### On `GNU/Linux` using [`CMake`](https://cmake.org):
